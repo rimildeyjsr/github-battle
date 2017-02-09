@@ -1,3 +1,11 @@
-/**
- * Created by rimil on 08-02-2017.
- */
+var React = require('react');
+
+var Home = React.createClass({
+    render: function(){
+        return(
+            <div>Hello from the Home component!</div>
+        )
+    }
+});
+
+module.exports = Home;

@@ -1,3 +1,13 @@
-/**
- * Created by rimil on 08-02-2017.
- */
+var React = require('react');
+
+var Main = React.createClass({
+    render: function(){
+        return(
+            <div className="main-container">
+                {this.props.children}
+            </div>
+        )
+    }
+});
+
+module.exports = Main;
