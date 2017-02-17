@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97d269fa-d698-4a9b-a887-31c73a6859ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/ConfirmBattle.js" afterPath="$PROJECT_DIR$/app/components/ConfirmBattle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/containers/ConfirmBattleContainer.js" afterPath="$PROJECT_DIR$/app/containers/ConfirmBattleContainer.js" />
     </list>
     <ignored path="github-battle.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,20 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConfirmBattleContainer.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ConfirmBattleContainer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/containers/ConfirmBattleContainer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.32673267">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConfirmBattle.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConfirmBattle.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/components/ConfirmBattle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14026402">
+            <state vertical-scroll-proportion="0.0">
               <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
               <folding />
             </state>
@@ -130,8 +130,8 @@
         <option value="$PROJECT_DIR$/app/containers/PromptContainer.js" />
         <option value="$PROJECT_DIR$/app/components/Prompt.js" />
         <option value="$PROJECT_DIR$/app/config/routes.js" />
-        <option value="$PROJECT_DIR$/app/containers/ConfirmBattleContainer.js" />
         <option value="$PROJECT_DIR$/app/components/ConfirmBattle.js" />
+        <option value="$PROJECT_DIR$/app/containers/ConfirmBattleContainer.js" />
       </list>
     </option>
   </component>
@@ -805,18 +805,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/containers/ConfirmBattleContainer.js">
+    <entry file="file://$PROJECT_DIR$/app/components/ConfirmBattle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/ConfirmBattle.js">
+    <entry file="file://$PROJECT_DIR$/app/containers/ConfirmBattleContainer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14026402">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.32673267">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding />
         </state>
       </provider>
